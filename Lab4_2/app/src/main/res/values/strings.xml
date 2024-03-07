@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Book App</string>
+    <string name="introduction_text">Bine ati venit in aplicatia Book App! Aceasta aplicatie are 4 capitole. Fiecare capitol poate fi accesat prin apasarea butonului cu numele acestuia.</string>
+    <string name="chapter1_title">Chapter 1: Introduction</string>
+    <string name="chapter1_text">Acesta este primul capitol al cartii. Va vom introduce in lumea fascinanta a masinilor Mercedes.</string>
+    <string name="chapter2_title">Chapter 2: Main Ideas</string>
+    <string name="chapter2_text">Masinile Mercedes sunt foarte rapide si puternice dar si estetice si elegante.</string>
+    <string name="chapter3_title">Chapter 3: Case Studies</string>
+    <string name="chapter3_text">Doar in ultimul an s-au facut vanzari de masini Mercedes in valoare de 312 milioane de dolari.</string>
+    <string name="chapter4_title">Chapter 4: Conclusion</string>
+    <string name="chapter4_text">Acesta este ultimul capitol si concluzia. Masinile Mercedes sunt printre, daca nu chiar cele mai bune masini de pe piata la ora actuala.</string>
+</resources>
